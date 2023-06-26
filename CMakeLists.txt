@@ -4,9 +4,9 @@ project(leetcodes)
 set(CMAKE_CXX_STANDARD 14)
 
 set(DEMOS
-        easy
-        medium
-        hard
+        01_easy
+        02_medium
+        03_hard
         )
 
 
