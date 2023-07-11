@@ -2,13 +2,22 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="leetcodes" targetName="27_RemoveElement.cpp" />
-      <config projectName="leetcodes" targetName="35_SearchInsertPosition.cpp" />
+      <config projectName="leetcodes" targetName="05_LongestPalindrome.cpp" />
       <config projectName="leetcodes" targetName="66_PlusOne.cpp" />
       <config projectName="leetcodes" targetName="26_RemoveDuplicatesfromSortedArray.cpp" />
+      <config projectName="leetcodes" targetName="03_LengthOfLongestSubstring.cpp" />
       <config projectName="leetcodes" targetName="01_TwoSum.cpp" />
       <config projectName="leetcodes" targetName="09_PalindromeNumber.cpp" />
+      <config projectName="leetcodes" targetName="04_FindMedianSortedArrays.cpp" />
+      <config projectName="leetcodes" targetName="07_ReverseInteger.cpp" />
+      <config projectName="leetcodes" targetName="27_RemoveElement.cpp" />
+      <config projectName="leetcodes" targetName="35_SearchInsertPosition.cpp" />
+      <config projectName="leetcodes" targetName="10_RegularExpressionMatching.cpp" />
+      <config projectName="leetcodes" targetName="11_ContainerWithMostWater.cpp" />
       <config projectName="leetcodes" targetName="13_RomanToInteger.cpp" />
+      <config projectName="leetcodes" targetName="02_AddTwoNumbers.cpp" />
+      <config projectName="leetcodes" targetName="06_ZigzagConversion.cpp" />
+      <config projectName="leetcodes" targetName="08_String2Integer_atoi.cpp" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -18,16 +27,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90287a4a-3934-471b-9a51-92669a505e24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_easy/09_PalindromeNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_easy/13_RomanToInteger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_medium/02_AddTwoNumbers .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/03_LengthOfLongestSubstring.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/05_LongestPalindrome.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/06_ZigzagConversion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/07_ReverseInteger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/08_String2Integer_atoi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/11_ContainerWithMostWater.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_medium/12_Integer2Roman.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_hard/04_FindMedianSortedArrays.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_hard/10_RegularExpressionMatching.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/01_TwoSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/01_TwoSum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/26_RemoveDuplicatesfromSortedArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/26_RemoveDuplicatesfromSortedArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/27_RemoveElement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/27_RemoveElement.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/35_SearchInsertPosition.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/35_SearchInsertPosition.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/66_PlusOne.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/66_PlusOne.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_easy/09_PalindromeNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/09_PalindromeNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_easy/13_RomanToInteger.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/13_RomanToInteger.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_easy/26_RemoveDuplicatesfromSortedArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01_easy/26_RemoveDuplicatesfromSortedArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_medium/02_AddTwoNumbers .cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02_medium/02_AddTwoNumbers.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +54,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/01_easy/66_PlusOne.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/01_easy/26_RemoveDuplicatesfromSortedArray.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/02_medium/11_ContainerWithMostWater.cpp" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/01_easy/01_TwoSum.cpp" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/01_easy/09_PalindromeNumber.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/01_easy/13_RomanToInteger.cpp" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2EwczHHKIpOum8K24c5NyLyRYTY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,7 +88,7 @@
     <property name="cmake.loaded.for.project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="CMake Application.66_PlusOne.cpp">
+  <component name="RunManager" selected="CMake Application.26_RemoveDuplicatesfromSortedArray.cpp">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -75,7 +99,52 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="02_AddTwoNumbers.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="02_AddTwoNumbers.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="02_AddTwoNumbers.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03_LengthOfLongestSubstring.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="03_LengthOfLongestSubstring.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="03_LengthOfLongestSubstring.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04_FindMedianSortedArrays.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="04_FindMedianSortedArrays.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="04_FindMedianSortedArrays.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05_LongestPalindrome.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="05_LongestPalindrome.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="05_LongestPalindrome.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06_ZigzagConversion.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="06_ZigzagConversion.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="06_ZigzagConversion.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="07_ReverseInteger.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="07_ReverseInteger.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="07_ReverseInteger.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="08_String2Integer_atoi.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="08_String2Integer_atoi.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="08_String2Integer_atoi.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="09_PalindromeNumber.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="09_PalindromeNumber.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="09_PalindromeNumber.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10_RegularExpressionMatching.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="10_RegularExpressionMatching.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="10_RegularExpressionMatching.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="11_ContainerWithMostWater.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcodes" TARGET_NAME="11_ContainerWithMostWater.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcodes" RUN_TARGET_NAME="11_ContainerWithMostWater.cpp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,7 +181,16 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.01_TwoSum.cpp" />
+      <item itemvalue="CMake Application.02_AddTwoNumbers.cpp" />
+      <item itemvalue="CMake Application.03_LengthOfLongestSubstring.cpp" />
+      <item itemvalue="CMake Application.04_FindMedianSortedArrays.cpp" />
+      <item itemvalue="CMake Application.05_LongestPalindrome.cpp" />
+      <item itemvalue="CMake Application.06_ZigzagConversion.cpp" />
+      <item itemvalue="CMake Application.07_ReverseInteger.cpp" />
+      <item itemvalue="CMake Application.08_String2Integer_atoi.cpp" />
       <item itemvalue="CMake Application.09_PalindromeNumber.cpp" />
+      <item itemvalue="CMake Application.10_RegularExpressionMatching.cpp" />
+      <item itemvalue="CMake Application.11_ContainerWithMostWater.cpp" />
       <item itemvalue="CMake Application.13_RomanToInteger.cpp" />
       <item itemvalue="CMake Application.26_RemoveDuplicatesfromSortedArray.cpp" />
       <item itemvalue="CMake Application.27_RemoveElement.cpp" />
@@ -137,8 +215,19 @@
       <workItem from="1675089006797" duration="623000" />
       <workItem from="1680912777752" duration="20000" />
       <workItem from="1687684638339" duration="262000" />
-      <workItem from="1687684910757" duration="3403000" />
+      <workItem from="1687684910757" duration="7752000" />
+      <workItem from="1687750493716" duration="1341000" />
+      <workItem from="1687772624390" duration="2053000" />
+      <workItem from="1687855278039" duration="28006000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1687745875706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687745875706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +244,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

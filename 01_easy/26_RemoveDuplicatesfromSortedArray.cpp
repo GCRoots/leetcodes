@@ -86,14 +86,56 @@ public:
         }
         return slow;
     }
+
+
+
+
+    bool isMatch(string s, string p) {
+        int ls = s.size()-1, lp = p.size()-1;
+        while (ls >=0 && lp>=0){
+            if (p[lp] == '*' && p[lp-1] == '.'){
+                if (lp>1){
+                    char pre = p[lp-2];
+                    while (s[ls] != pre) --ls;
+                    lp -= 2;
+                } else
+                    return true;
+            } else if (p[lp] == '.'){
+                --ls;
+                --lp;
+            } else if (p[lp] == '*'){
+                char pre = p[lp-1];
+                while (s[ls] == pre) --ls;
+                lp -= 2;
+                int l = lp;
+                while (p[l] == p[l+1]){
+                    ++ls;
+                    --l;
+                }
+            } else{
+                if (p[lp] != s[ls])
+                    return false;
+                --ls;
+                --lp;
+            }
+
+
+        }
+
+        return ls == -1 && lp == -1;
+
+    }
+
 };
 
 int main(){
-    Solution solution{};
+    Solution solution;
 
-    vector<int> vector(2);
-    vector[0]=1;
-    vector[1]=1;
-    cout<<solution.removeDuplicates(vector);
+     bool b = solution.isMatch("aa", "a*");
+
+    cout << b << endl;
+
     return 0;
+
+
 }

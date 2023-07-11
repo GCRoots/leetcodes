@@ -13,7 +13,7 @@ class Solution {
 public:
     // 普通解法：转成字符串
     bool isPalindrome(int x) {
-        if(x<0  || (x%10==0 && x!=0)){
+        if(x<0 || (x%10==0 && x!=0)){
             return false;
         }
         string str = to_string(x);

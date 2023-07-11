@@ -37,7 +37,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         int num = 0;
-    int len = s.size();
+        int len = s.size();
         for (int i = 0; i < len; ++i) {
             int val =symbol_map[s[i]];
             if (i<len-1 && val<symbol_map[s[i+1]]){
